@@ -1,4 +1,6 @@
-# Dmitriy Ivakin ![Photo](https://sun9-57.userapi.com/impf/6zR9uQVfuNf0tW1K5ZlTH3HcvpV-aXbf8Nn_4w/LCyGxuPaY8o.jpg?size=319x288&quality=96&sign=b6e376216060916a3966680704c78249&type=album)
+# Dmitriy Ivakin
+
+![Photo](https://sun9-57.userapi.com/impf/6zR9uQVfuNf0tW1K5ZlTH3HcvpV-aXbf8Nn_4w/LCyGxuPaY8o.jpg?size=319x288&quality=96&sign=b6e376216060916a3966680704c78249&type=album)
 
 ### Contacts:
 
@@ -10,7 +12,9 @@
 
 _Shortly, I'm an ordinary hard worker man from a factory. I have about 8 years-experience in engineering of the automatization lines in food industry._
 
-### Skills: _HTML, CSS, JS, React_
+### Skills:
+
+_HTML, CSS, JS, React_
 
 ### Code examples:
 
@@ -36,6 +40,10 @@ function isValidWalk(walk) {
 
 _Engineer of the measuring systems and automatiozation - 8 years, 2014-2022_
 
-### Education: _Backelor degree, Brest State Technical Univercity, 2009-2014_
+### Education:
 
-### English: _Basic level_
+_Backelor degree, Brest State Technical Univercity, 2009-2014_
+
+### English:
+
+_Basic level_
